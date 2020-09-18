@@ -11,7 +11,7 @@ we can check this by
 char* str = "waffle";
 if(str == "waflle")printf("waffle!\n"); 
 ```
-this would print "waffle", while `str` represent string literal "waffle"'s adress   
+this would print "waffle", while `str` points string literal "waffle"'s adress   
    
 function `int strcmp(const char* str1,const char* str2)` provide proper comparsion with string while return 0 if `str1` and `str2` is same string.   
 while comparing `str1` and `str2`in alphabetic order in each sequence of character,   
