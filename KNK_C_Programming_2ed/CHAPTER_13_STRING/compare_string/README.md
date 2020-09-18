@@ -1,4 +1,4 @@
-#compare string   
+# compare string   
 while variable `str` is `char str[] = "hello";`   
    
 `str == "hello"` would return 0   
