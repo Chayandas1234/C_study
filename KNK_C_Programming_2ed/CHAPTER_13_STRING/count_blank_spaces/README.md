@@ -9,7 +9,7 @@ int count_space(char* str) {
 	return temp;
 }
 ```   
-modify function to not using `i` in for loop...   
+modify function to not using `i` in loop...   
    
 ```
 int count_space_onlyPTR(const char* str) {
