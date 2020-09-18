@@ -1,4 +1,4 @@
-#Using pointer operations for porcessing string   
+# Using pointer operations for porcessing string   
 ```
 int count_space(char* str) {
 	int temp=0;
