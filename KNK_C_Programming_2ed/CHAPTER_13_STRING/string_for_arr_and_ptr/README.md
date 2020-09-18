@@ -1,4 +1,4 @@
-# Array and Pointer in String   
+# Array and Pointer as String   
     
 `char* ptr = "Hello"`   
 str points to string literial   
