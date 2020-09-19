@@ -21,7 +21,7 @@ Finally, instead of adding 1 to `n` untill loop ends, we can finish that in once
 ```
 size_t MY_strlen(const char* str){
 	char* temp = str;   
-	for(;*str++;) n++;
+	for(;*str++;);
 	
 	return str-temp;				
 } 
