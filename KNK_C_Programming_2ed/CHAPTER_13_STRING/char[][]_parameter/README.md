@@ -1,6 +1,6 @@
 # 2D char array as Parameter   
    
-Passing parameter as 2D array, you must specify size of row   
+In order to passing parameter as 2D array, you must specify size of row   
    
 for example, if you want to pass `char strs[][10]` as parameter   
    
